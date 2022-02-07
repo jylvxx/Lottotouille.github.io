@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://jylvxx.github.io'
+url:              'https://Lottotouille.github.io'
 baseurl:          ''
 rss:              RSS
 
@@ -47,3 +47,8 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: Lottotouille

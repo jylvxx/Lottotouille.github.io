@@ -30,4 +30,7 @@
             </div>
         </div>
     </div>
+    {% if page.comments != false %}
+    <div id="post-disqus" class="container" style="padding: 20px;">{% include disqus.html %}</div>
+    {% endif %}
 </div>
