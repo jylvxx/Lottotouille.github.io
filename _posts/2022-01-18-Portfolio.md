@@ -23,13 +23,21 @@ comments: true
 - [우리동네 북클럽 Front-end](https://github.com/jylvxx/bookclub-front)  
 - [우리동네 북클럽 Back-end](https://github.com/jylvxx/bookclub-Back)  
 
-## 데이터 시각화 솔루션
-데이터 탐색을 위한 시각화 애플리케이션입니다. @2021
+## 출입관리 솔루션
+출입신청 및 관리를 위한 웹 입니다. @2021
+<br />신청자가 방문할 사람에 대한 정보를 기입한 후 결재 과정을 진행 합니다.
+<br />개발 풀스택 참여
 <br />
-(airbnb 에서 개발한 Apache Superset을 참고하여 개발하였습니다.)
+(https://visit.iljin.co.kr)
 ### 기술 스택
-- Front-end: React  
-- Back-end: Spring boot, PostgreSQL, Redis(session clustering)  
+- Front-end: Vue.js
+- Back-end: Java 8, Spring boot, JPA, MariaDB  
 
-### GitHub
-> 소스 정리 중입니다.
+
+## 전자전표 솔루션
+전자전표 솔루션 개발. @2020
+<br />법인카드 및 결재선 메뉴 담당 개발
+<br />
+### 기술 스택
+- Front-end: Vue.js
+- Back-end: Java 8, Spring boot, JPA, MariaDB  
